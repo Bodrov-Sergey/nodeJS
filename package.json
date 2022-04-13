@@ -1,0 +1,8 @@
+{
+  "name": "nodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bodrov-Sergey/nodeJS.git",
+  "author": "Bodrov Sergey <bodrov.sergey.d@gmail.com>",
+  "license": "MIT"
+}
